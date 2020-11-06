@@ -94,7 +94,8 @@ ___
 * [x] Task 2
 * [ ] Task 3
 
-<!-- styling stuff I'm not sure about -->
+<!-- styling stuff I'm not sure about 
+this is not supported in github-->
 
 show me a <span style="color:red;">red</span> color
 show me a <span style="font-family: Papyrus; font-size:2em; color: green;">Papyrus</span> text
